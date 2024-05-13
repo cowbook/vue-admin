@@ -1,0 +1,1 @@
+window.__PRODUCTION__时时连V2__CONF__={"VITE_GLOB_APP_TITLE":"时时连V2","VITE_GLOB_API_URL":"/vapi","VITE_GLOB_UPLOAD_URL":"/upload","VITE_GLOB_API_URL_PREFIX":""};Object.freeze(window.__PRODUCTION__时时连V2__CONF__);Object.defineProperty(window,"__PRODUCTION__时时连V2__CONF__",{configurable:false,writable:false,});

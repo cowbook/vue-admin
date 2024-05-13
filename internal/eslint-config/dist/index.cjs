@@ -1,0 +1,1 @@
+module.exports = require("/Users/yanzhang/jscgpc_home/new_projects/fdcl/adminssl/node_modules/.pnpm/registry.npmmirror.com+jiti@1.19.1/node_modules/jiti/lib/index.js")(null, { interopDefault: true, esmResolve: true })("/Users/yanzhang/jscgpc_home/new_projects/fdcl/adminssl/internal/eslint-config/src/index.ts")
